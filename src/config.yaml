@@ -11,7 +11,7 @@ metadata:
   title:
     default: Bobotok
     template: '%s — Bobotok'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Automatically set flash sale prices, manage your comments seamlessly, and foster a conversion-friendly atmosphere to accelerate your business growth."
   robots:
     index: true
     follow: true
